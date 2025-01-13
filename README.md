@@ -9,8 +9,23 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     ├── Lesson 02 - Decorator
     │   └── main.py
-    ├── LICENSE
-    └── README.md
+    ├── Lesson 03 - Mutable and Immutable
+    │   └── main.py
+    ├── Lesson 04 - Generator
+    │   └── main.py
+    ├── Lesson 05 - Scope
+    │   └── main.py
+    ├── Lesson 06 - Arguments and INI
+    │   ├── config.ini
+    │   └── main.py
+    ├── Lesson 07 - CSV
+    │   ├── course.csv
+    │   └── main.py
+    ├── Lesson 08 - PIP
+    │   └── main.py
+    └── Lesson 09 - Virtual Environment
+        └── main.py
+
 
 ## License
 
