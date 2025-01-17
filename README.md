@@ -23,8 +23,12 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     ├── Lesson 08 - PIP
     │   └── main.py
-    └── Lesson 09 - Virtual Environment
+    |── Lesson 09 - Virtual Environment
+    |   └── main.py
+    └── Lesson 10 - Pixel Art Editor
+        ├── image.png
         └── main.py
+
 
 
 ## License
