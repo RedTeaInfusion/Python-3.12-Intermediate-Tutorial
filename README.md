@@ -25,10 +25,12 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     |── Lesson 09 - Virtual Environment
     |   └── main.py
-    └── Lesson 10 - Pixel Art Editor
-        ├── image.png
-        └── main.py
-
+    |── Lesson 10 - Pixel Art Editor
+    |   ├── image.png
+    |   └── main.py
+    └── Lesson 11 - Requirements
+        ├── main.py
+        └── requirements.txt
 
 
 ## License
