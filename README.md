@@ -28,10 +28,25 @@ This repository contains the code created during the YouTube course titled "Pyth
     |── Lesson 10 - Pixel Art Editor
     |   ├── image.png
     |   └── main.py
-    └── Lesson 11 - Requirements
-        ├── main.py
-        └── requirements.txt
-
+    |── Lesson 11 - Requirements
+    |   ├── main.py
+    |   └── requirements.txt
+    ├── Lesson 12 - Class
+    │   └── main.py
+    ├── Lesson 13 - Dunder methods
+    │   └── main.py
+    ├── Lesson 14 - Inheritance
+    │   └── main.py
+    ├── Lesson 15 - Encapsulation
+    │   └── main.py
+    ├── Lesson 16 - Polymorphism
+    │   └── main.py
+    ├── Lesson 17 - Abstraction
+    │   └── main.py
+    ├── Lesson 18 - Static method
+    │   └── main.py
+    └── Lesson 19 - Dataclass
+        └── main.py
 
 ## License
 
