@@ -1,5 +1,5 @@
 '''
-Lesson14 - Inheritance
+Lesson 14 - Inheritance
 inheritance
 super()
 '''
