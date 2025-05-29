@@ -163,8 +163,9 @@ def main():
                     enemies.add(Enemy(enemy_healt, speed, value, enemy_image))
                     total_enemies_spawned += 1
         
-
-            
+        pygame.display.flip()
+        clock.tick(60)
+        
     pygame.quit()
 
 if __name__ == '__main__':
