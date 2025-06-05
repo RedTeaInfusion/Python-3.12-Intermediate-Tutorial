@@ -68,8 +68,8 @@ This repository contains the code created during the YouTube course titled "Pyth
     |   ├── tower.py
     |   └── towers.ini
     ├── Lesson 21 - Git and github
-    │   ├── config.ini
     │   ├── .gitignore
+    │   ├── config.ini
     │   ├── main.py
     │   └── requirements.txt
     ├── Lesson 22 - Logging
@@ -78,10 +78,15 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   ├── config.json
     │   ├── main.py
     │   └── requirements.txt
-    └── Lesson 24 - Environment variable
-        ├── .gitignore
-        ├── main.py
-        └── requirements.txt
+    ├── Lesson 24 - Environment variable
+    |   ├── .gitignore
+    |   ├── main.py
+    |   └── requirements.txt
+    ├── Lesson 25 - Async Await
+    │   ├── asynchronous.py
+    │   ├── main.py
+    │   ├── requirements.txt
+    │   └── synchronous.py
 
 
 
