@@ -48,25 +48,41 @@ This repository contains the code created during the YouTube course titled "Pyth
     └── Lesson 19 - Dataclass
     |   └── main.py
     └── Lesson 20 - Tower defense
-        ├── images
-        │   ├── avocado.png
-        │   ├── carrot.png
-        │   ├── ghost.png
-        │   ├── lantern.png
-        │   ├── potato.png
-        │   ├── tower1.png
-        │   ├── tower2.png
-        │   └── tower3.png
-        ├── button.py
-        ├── constants.py
-        ├── enemy.py
-        ├── levels.ini
+    |   ├── images
+    |   │   ├── avocado.png
+    |   │   ├── carrot.png
+    |   │   ├── ghost.png
+    |   │   ├── lantern.png
+    |   │   ├── potato.png
+    |   │   ├── tower1.png
+    |   │   ├── tower2.png
+    |   │   └── tower3.png
+    |   ├── button.py
+    |   ├── constants.py
+    |   ├── enemy.py
+    |   ├── levels.ini
+    |   ├── main.py
+    |   ├── message_box.py
+    |   ├── projectile.py
+    |   ├── requirements.txt
+    |   ├── tower.py
+    |   └── towers.ini
+    ├── Lesson 21 - Git and github
+    │   ├── config.ini
+    │   ├── .gitignore
+    │   ├── main.py
+    │   └── requirements.txt
+    ├── Lesson 22 - Logging
+    │   └── main.py
+    ├── Lesson 23 - JSON
+    │   ├── config.json
+    │   ├── main.py
+    │   └── requirements.txt
+    └── Lesson 24 - Environment variable
+        ├── .gitignore
         ├── main.py
-        ├── message_box.py
-        ├── projectile.py
-        ├── requirements.txt
-        ├── tower.py
-        └── towers.ini
+        └── requirements.txt
+
 
 
 
