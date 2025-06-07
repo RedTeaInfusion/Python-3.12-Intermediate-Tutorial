@@ -87,6 +87,11 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   ├── main.py
     │   ├── requirements.txt
     │   └── synchronous.py
+    ├── Lesson 26 - Database
+    │   ├── contacts.db
+    │   └── main.py
+    ├── Lesson 27 - Algorithm
+    │   └── main.py
 
 
 
