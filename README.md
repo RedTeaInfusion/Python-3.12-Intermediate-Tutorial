@@ -92,6 +92,12 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     ├── Lesson 27 - Algorithm
     │   └── main.py
+    ├── Lesson 28 - Data structure
+    │   └── main.py
+    ├── Lesson 29 - Jupyter notebook
+    │   ├── notebook.ipynb
+    │   └── output.png
+
 
 
 
