@@ -96,7 +96,18 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     ├── Lesson 29 - Jupyter notebook
     │   ├── notebook.ipynb
-    │   └── output.png
+    │   ├── output.png
+    │   └── requirements.txt
+    └── Lesson 30 - Chat Room
+        ├── app.py
+        ├── requirements.txt
+        ├── static
+        │   ├── css
+        │   │   └── style.css
+        │   └── js
+        │       └── chat.js
+        └── templates
+            └── chat.html
 
 
 
