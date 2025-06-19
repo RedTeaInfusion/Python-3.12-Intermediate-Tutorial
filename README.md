@@ -45,9 +45,9 @@ This repository contains the code created during the YouTube course titled "Pyth
     │   └── main.py
     ├── Lesson 18 - Static method
     │   └── main.py
-    └── Lesson 19 - Dataclass
+    |── Lesson 19 - Dataclass
     |   └── main.py
-    └── Lesson 20 - Tower defense
+    |── Lesson 20 - Tower defense
     |   ├── images
     |   │   ├── avocado.png
     |   │   ├── carrot.png
